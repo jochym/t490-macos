@@ -4,57 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/VoodooSMBus.kext/Contents/Info.plist</key>
-		<data>
-		DGX1zycjRTX2+91LhvBRD+ofkZ8=
-		</data>
-		<key>Resources/VoodooSMBus.kext/Contents/MacOS/VoodooSMBus</key>
-		<data>
-		VaHMY8Uv/zOgCvyp3BMwJ0Yuui0=
-		</data>
-		<key>Resources/VoodooSMBus.kext/Contents/Resources/Headers/VoodooSMBusDeviceNub.hpp</key>
+		<key>Resources/Headers/VoodooSMBusDeviceNub.hpp</key>
 		<data>
 		Gkz/vNrHlRcTeb3TNsAqUb24aZ4=
-		</data>
-		<key>Resources/VoodooSMBus.kext/Contents/_CodeSignature/CodeResources</key>
-		<data>
-		KEdn/SMYhrvgjQV0XBx1F6hqbEA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>PlugIns/VoodooInput.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			lLF68jVgpqlZn8PnpPC3pXFHn5w=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"81f5854a99ab8c038c21397175f3ab4b71ea0839" or cdhash H"94b17af23560a6a9599fc3e7a4f0b7a571479f9c"</string>
-		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DGX1zycjRTX2+91LhvBRD+ofkZ8=
-			</data>
-			<key>hash2</key>
-			<data>
-			/JmxjWrs0JwM7bm0BekwPg5LNOlVDJzMo+UXlqgjUwc=
-			</data>
-		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/MacOS/VoodooSMBus</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VaHMY8Uv/zOgCvyp3BMwJ0Yuui0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ch6c9H2ESWHTh9OfZnE2+3J7Ab3sZSnwamkrdWgWduQ=
-			</data>
-		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/Resources/Headers/VoodooSMBusDeviceNub.hpp</key>
+		<key>Resources/Headers/VoodooSMBusDeviceNub.hpp</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -63,17 +20,6 @@
 			<key>hash2</key>
 			<data>
 			OgYn96uJNktmjX+20pkPJEVgMAFTgyFCGxbanbDpdzA=
-			</data>
-		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KEdn/SMYhrvgjQV0XBx1F6hqbEA=
-			</data>
-			<key>hash2</key>
-			<data>
-			BgN4cDIha0rGFeM4B52IbPENLsc7y4qToe55Lvxmz0k=
 			</data>
 		</dict>
 	</dict>
