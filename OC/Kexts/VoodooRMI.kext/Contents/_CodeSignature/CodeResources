@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/VoodooSMBus.kext/Contents/Info.plist</key>
 		<data>
-		DGX1zycjRTX2+91LhvBRD+ofkZ8=
+		w6TUusNht6sE0z7InS4pB9vXxUc=
 		</data>
 		<key>Resources/VoodooSMBus.kext/Contents/MacOS/VoodooSMBus</key>
 		<data>
@@ -27,20 +27,20 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			lLF68jVgpqlZn8PnpPC3pXFHn5w=
+			g5Z3fYe/hyrsgRjnDc/wz7DTWpI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"81f5854a99ab8c038c21397175f3ab4b71ea0839" or cdhash H"94b17af23560a6a9599fc3e7a4f0b7a571479f9c"</string>
+			<string>cdhash H"10aed34947baa332942d0d90fc0e826cb7990f0e" or cdhash H"8396777d87bf872aec8118e70dcff0cfb0d35a92"</string>
 		</dict>
 		<key>Resources/VoodooSMBus.kext/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DGX1zycjRTX2+91LhvBRD+ofkZ8=
+			w6TUusNht6sE0z7InS4pB9vXxUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			/JmxjWrs0JwM7bm0BekwPg5LNOlVDJzMo+UXlqgjUwc=
+			Y7pvA8s90B36XkBkqX52YqCXh1dlkQJmcyW4/IxpsAE=
 			</data>
 		</dict>
 		<key>Resources/VoodooSMBus.kext/Contents/MacOS/VoodooSMBus</key>
